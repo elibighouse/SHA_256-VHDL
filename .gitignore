@@ -1,0 +1,10 @@
+/.settings/
+/.vscode/
+/.Xil/
+/SHA256.cache/
+/SHA256.hw/
+/SHA256.ip_user_files/
+/SHA256.runs/
+/SHA256.sim/
+*.jou
+*.log

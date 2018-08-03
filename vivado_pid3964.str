@@ -1,0 +1,90 @@
+/*
+
+Xilinx Vivado v2017.4 (64-bit) [Major: 2017, Minor: 4]
+SW Build: 2086221 on Fri Dec 15 20:55:39 MST 2017
+IP Build: 2085800 on Fri Dec 15 22:25:07 MST 2017
+
+Process ID: 3964
+License: Customer
+
+Current time: 	Fri Aug 03 15:31:40 CEST 2018
+Time zone: 	Central European Time (Europe/Berlin)
+
+OS: Windows 8.1
+OS Version: 6.3
+OS Architecture: amd64
+Available processors (cores): 4
+
+Screen size: 1366x768
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 233 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	C:/Xilinx/Vivado/2017.4/tps/win64/jre
+JVM executable location: 	C:/Xilinx/Vivado/2017.4/tps/win64/jre/bin/java.exe
+
+User name: 	elisa.casagrande
+User home directory: C:/Users/elisa.casagrande
+User working directory: C:/Users/elisa.casagrande/Dropbox/Elettronica Digitale/Laboratorio Digitale/PROGETTO/sha256
+User country: 	IT
+User language: 	it
+User locale: 	it_IT
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2017.4
+RDI_DATADIR: C:/Xilinx/Vivado/2017.4/data
+RDI_BINDIR: C:/Xilinx/Vivado/2017.4/bin
+
+Vivado preferences file location: C:/Users/elisa.casagrande/AppData/Roaming/Xilinx/Vivado/2017.4/vivado.xml
+Vivado preferences directory: C:/Users/elisa.casagrande/AppData/Roaming/Xilinx/Vivado/2017.4/
+Vivado layouts directory: C:/Users/elisa.casagrande/AppData/Roaming/Xilinx/Vivado/2017.4/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2017.4/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/elisa.casagrande/Dropbox/Elettronica Digitale/Laboratorio Digitale/PROGETTO/sha256/vivado.log
+Vivado journal file location: 	C:/Users/elisa.casagrande/Dropbox/Elettronica Digitale/Laboratorio Digitale/PROGETTO/sha256/vivado.jou
+Engine tmp dir: 	C:/Users/elisa.casagrande/Dropbox/Elettronica Digitale/Laboratorio Digitale/PROGETTO/sha256/.Xil/Vivado-3964-Elisa
+
+GUI allocated memory:	185 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 493 MB
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bs (cj):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\elisa.casagrande\Dropbox\Elettronica Digitale\Laboratorio Digitale\PROGETTO\sha256\SHA256.xpr. Version: Vivado v2017.4 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// [GUI Memory]: 56 MB (+56620kb) [00:00:10]
+// [Engine Memory]: 460 MB (+331106kb) [00:00:10]
+// Tcl Message: open_project {C:/Users/elisa.casagrande/Dropbox/Elettronica Digitale/Laboratorio Digitale/PROGETTO/sha256/SHA256.xpr} 
+// Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'C:/Users/elisa.casagrande/Dropbox/Elettronica Digitale/Laboratorio Digitale/PROGETTO/sha256' 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project {C:/Users/elisa.casagrande/Dropbox/Elettronica Digitale/Laboratorio Digitale/PROGETTO/sha256/SHA256.xpr} 
+// Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'C:/Users/elisa.casagrande/Dropbox/Elettronica Digitale/Laboratorio Digitale/PROGETTO/sha256' INFO: [Project 1-313] Project file moved from 'C:/Users/marco/Desktop/SHA256' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 66 MB (+7111kb) [00:00:13]
+// [Engine Memory]: 537 MB (+56589kb) [00:00:13]
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.4/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 541 MB. GUI used memory: 38 MB. Current time: 8/3/18 3:31:46 PM CEST
+// Project name: SHA256; location: C:/Users/elisa.casagrande/Dropbox/Elettronica Digitale/Laboratorio Digitale/PROGETTO/sha256; part: xc7z020clg484-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:07 . Memory (MB): peak = 748.813 ; gain = 70.758 
+dismissDialog("Open Project"); // bs (cj)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// Tcl Message: update_compile_order -fileset sources_1 
+// PAPropertyPanels.initPanels (SHA256_top_level.vhd) elapsed time: 0.4s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SHA256(Structural) (SHA256_top_level.vhd)]", 1, true); // B (D, cj) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, SHA256(Structural) (SHA256_top_level.vhd), MSG_SCHEDULER : message_scheduler(Behavioral) (message_scheduler.vhd)]", 2, false, false, false, false, false, true); // B (D, cj) - Double Click
+// [Engine Memory]: 567 MB (+3080kb) [00:01:33]
+// [GUI Memory]: 73 MB (+3427kb) [00:01:57]
+// [GUI Memory]: 76 MB (+190kb) [00:06:32]
